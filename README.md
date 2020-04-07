@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# spree_munchy
+Munchy Mart Ecommerce Plateform
+>>>>>>> 96292d6f74e7666f5ca33917d43caaec66fae697
